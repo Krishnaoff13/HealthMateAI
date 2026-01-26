@@ -1,0 +1,56 @@
+{
+  "pizza": { "calories": 285, "protein": 12, "carbs": 36, "fats": 10 },
+  "burger": { "calories": 295, "protein": 17, "carbs": 30, "fats": 14 },
+  "sandwich": { "calories": 250, "protein": 10, "carbs": 35, "fats": 8 },
+  "fries": { "calories": 365, "protein": 4, "carbs": 48, "fats": 17 },
+
+  "apple": { "calories": 95, "protein": 0, "carbs": 25, "fats": 0 },
+  "banana": { "calories": 105, "protein": 1, "carbs": 27, "fats": 0 },
+  "orange": { "calories": 62, "protein": 1, "carbs": 15, "fats": 0 },
+  "grapes": { "calories": 62, "protein": 1, "carbs": 16, "fats": 0 },
+
+  "rice": { "calories": 205, "protein": 4, "carbs": 45, "fats": 0 },
+  "bread": { "calories": 80, "protein": 3, "carbs": 15, "fats": 1 },
+  "pasta": { "calories": 220, "protein": 8, "carbs": 43, "fats": 1 },
+
+  "salad": { "calories": 150, "protein": 5, "carbs": 10, "fats": 8 },
+  "egg": { "calories": 78, "protein": 6, "carbs": 1, "fats": 5 },
+  "omelette": { "calories": 154, "protein": 11, "carbs": 1, "fats": 11 },
+  "chicken": { "calories": 239, "protein": 27, "carbs": 0, "fats": 14 },
+  "fish": { "calories": 206, "protein": 22, "carbs": 0, "fats": 12 },
+
+  "idli": { "calories": 58, "protein": 2, "carbs": 12, "fats": 0 },
+  "dosa": { "calories": 168, "protein": 4, "carbs": 28, "fats": 5 },
+  "chapati": { "calories": 120, "protein": 3, "carbs": 18, "fats": 3 },
+  "naan": { "calories": 260, "protein": 8, "carbs": 45, "fats": 6 },
+  "dal": { "calories": 180, "protein": 9, "carbs": 25, "fats": 4 },
+  "paneer": { "calories": 265, "protein": 18, "carbs": 6, "fats": 20 },
+
+  "cake": { "calories": 350, "protein": 5, "carbs": 50, "fats": 15 },
+  "donut": { "calories": 195, "protein": 2, "carbs": 22, "fats": 11 },
+  "ice cream": { "calories": 207, "protein": 4, "carbs": 24, "fats": 11 },
+
+  "coffee": { "calories": 5, "protein": 0, "carbs": 1, "fats": 0 },
+  "tea": { "calories": 30, "protein": 1, "carbs": 5, "fats": 1 },
+  "curd rice": { "calories": 220, "protein": 6, "carbs": 38, "fats": 4 },
+  "lemon rice": { "calories": 250, "protein": 5, "carbs": 40, "fats": 7 },
+  "sambar rice": { "calories": 270, "protein": 9, "carbs": 42, "fats": 6 },
+  "rasam rice": { "calories": 210, "protein": 6, "carbs": 38, "fats": 3 },
+  "vegetable rice": { "calories": 260, "protein": 6, "carbs": 44, "fats": 6 },
+  "idli": { "calories": 58, "protein": 2, "carbs": 12, "fats": 0 },
+  "dosa": { "calories": 168, "protein": 4, "carbs": 28, "fats": 5 },
+  "masala dosa": { "calories": 250, "protein": 6, "carbs": 40, "fats": 7 },
+  "pongal": { "calories": 212, "protein": 6, "carbs": 30, "fats": 7 },
+  "upma": { "calories": 180, "protein": 5, "carbs": 30, "fats": 5 },
+  "uttapam": { "calories": 220, "protein": 6, "carbs": 35, "fats": 6 },
+  "sambar": { "calories": 120, "protein": 6, "carbs": 15, "fats": 3 },
+  "rasam": { "calories": 40, "protein": 2, "carbs": 5, "fats": 1 },
+  "poriyal": { "calories": 90, "protein": 3, "carbs": 10, "fats": 4 },
+  "kootu": { "calories": 140, "protein": 6, "carbs": 18, "fats": 4 },
+  "avial": { "calories": 160, "protein": 5, "carbs": 15, "fats": 8 },
+  "thogayal": { "calories": 110, "protein": 3, "carbs": 8, "fats": 7 }
+  
+
+
+}
+
